@@ -1,2 +1,2 @@
 # movie-recommender
-Content based movie recommender system 
+Predicting movies using content based filtering and deploying the model using streamlit
